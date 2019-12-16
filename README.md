@@ -47,16 +47,26 @@
 - 技术识别证件和人像，鉴别持工作证为本人，确保“人证合一”。
 ####  本产品主要运用的AI功能及原型对应展示页面
 ####  产品原型
+
 [点击此处查看原型文档](http://seventeen1223.gitee.io/lock/)
+- 首页
 ![首页](https://upload-images.jianshu.io/upload_images/9404387-e3cd8abb5a7a18d7.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+- 上传身份证页
 ![上传身份证页](https://upload-images.jianshu.io/upload_images/9404387-18ed4968ac8a0f9a.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 ![上传身份证反面页](https://upload-images.jianshu.io/upload_images/9404387-944d331b5958ac49.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+- 上传身份证页
 ![识别成功页](https://upload-images.jianshu.io/upload_images/9404387-6009a5b009426546.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 ![识别失败页](https://upload-images.jianshu.io/upload_images/9404387-5bd453a84028a5b3.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+- 记录页
 ![记录页](https://upload-images.jianshu.io/upload_images/9404387-29f92f6500604799.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+- 成员页
 ![成员页](https://upload-images.jianshu.io/upload_images/9404387-76ce451af31d34f3.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+- 成员详情页
 ![成员详情页](https://upload-images.jianshu.io/upload_images/9404387-0021416ff4d3fd50.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+- 添加成员页
 ![添加成员页](https://upload-images.jianshu.io/upload_images/9404387-745055297c061cb4.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+- 添加成功页
 ![添加成功页](https://upload-images.jianshu.io/upload_images/9404387-ddcaf801ff47a30d.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
 ####  产品架构
 ![产品架构图](https://upload-images.jianshu.io/upload_images/9404387-601b6d97ad8d1d3e.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
